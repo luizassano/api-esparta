@@ -14,9 +14,7 @@
     (GET)   -> /project/:project<id>  -     Lista todos projetos do id 
     (PATCH) -> /project/:project<id>  -     Atualiza os dados de um projeto
     (DELETE)-> /project/:project<id>  -     Deleta um projeto.                                            
-    
     (POST)  -> /tasks/:project<id>    -     Cria uma task em um projeto           
     (GET)   -> /tasks/:project<id>    -     Lista todas as tasks
     (PATCH) -> /tasks/:task<id>       -     Atualiza os dados de uma task  
     (DELETE)-> /tasks/:task<id>       -     Deleta a task          
-
